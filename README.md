@@ -1,8 +1,4 @@
 # Symfony UX: Stimulus.js
-
-Well hi there! This repository holds the code and script
-for the [Symfony UX: Stimulus.js](https://symfonycasts.com/screencast/stimulus) course on SymfonyCasts.
-
 ## Setup
 
 If you've just downloaded the code, congratulations!!
